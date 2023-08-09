@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m working on the IoT Applications for Digital Twin.
+- 👨‍🎓 Pursuing MS by Research at IIIT, Hyderabad.
+- 🔭 I’m working on the Applications of Digital Twin in IoT.
 - 🌱 I’m currently learning Simulink Modelling and Machine Learning.
-- 👨‍🎓 Currently pursuing MS by Research at IIIT, Hyderabad.
+
