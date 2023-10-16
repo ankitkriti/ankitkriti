@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👨‍🎓 Pursuing MS by Research at IIIT, Hyderabad.
+- 👨‍🎓 Pursuing MS by Research at @IIIT-Hyderabad IIIT, Hyderabad.
 - 🔭 I’m working on the Applications of Digital Twin in IoT.
 - 🌱 I’m currently learning Simulink Modelling and Machine Learning.
 
